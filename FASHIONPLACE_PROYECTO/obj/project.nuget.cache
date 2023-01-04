@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UM6RRQ5CMY7SAeFo47tlz6UNYiFL6hlobsjEpz664c9uPUuhm05AFbZe6P6hd9WMfAL99hhT7Sk2lczOcDGX5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\FASHIONPLACE_PROYECTO\\FASHIONPLACE_PROYECTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
